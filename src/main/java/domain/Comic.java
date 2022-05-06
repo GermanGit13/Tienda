@@ -8,10 +8,6 @@ public class Comic {
     private int páginas;
     private String categoria;
 
-    public Comic () {
-
-    }
-
     public Comic(String titulo, String editorial, float precio, int páginas, String categoria) {
         this.titulo = titulo;
         this.editorial = editorial;
