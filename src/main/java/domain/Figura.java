@@ -9,10 +9,6 @@ public class Figura {
     private int altura;
     private float precio;
 
-    public Figura () {
-
-    }
-
     public Figura(String personaje, String fabricante, int altura, float precio) {
         this.personaje = personaje;
         this.fabricante = fabricante;
